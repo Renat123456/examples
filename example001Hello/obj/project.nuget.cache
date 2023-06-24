@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Fqey6BzSfpnTsxPqi3PkFYitfL32twX2RLSudHBnfLl30CXdlvRbnMq5qaGhYa910UP7v3AmcJGofJamqRStQ==",
+  "dgSpecHash": "3KffPLAoO7x+YM2oZSum0vR5OR/qAxQkjlZDO+cZhZOH/I3zR7BnqoMsTrbczysN5zLYnX8QLPmtkOi7KyPJkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renat\\Desktop\\examples\\example001Hello\\example001Hello.csproj",
+  "projectFilePath": "c:\\Users\\Renat\\Desktop\\examples\\example001Hello\\example001Hello.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
